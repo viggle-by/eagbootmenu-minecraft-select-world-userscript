@@ -18,7 +18,7 @@
         "EaglercraftX 1.8 u53 (site origin)": "https://yt3.googleusercontent.com/gMVVQSSm8EFfBXD1-6L6CgeL0Gg7Cfy8_3dTy2p4DzeTiQn1ACVPG1CJK8--tVPNQC0n4FA7d5k=s900-c-k-c0x00ffffff-no-rj",
         "Import/Export": "https://cdn-icons-png.flaticon.com/512/60/60761.png",
         "Enter Setup": "https://cdn-icons-png.flaticon.com/512/84/84380.png",
-        "Ayunclient on /dev/nvme22ayunclient (local storage, signed)": "https://cdn-icons-png.flaticon.com/512/564/564619.png"
+        "Ayunclient on /dev/nvme22ayunclient (local storage, signed)": "https://github.com/viggle-by/eagbootmenu-minecraft-select-world-userscript/blob/main/s.png?raw=true"
     };
 
     GM_addStyle(`
